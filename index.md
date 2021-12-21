@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<头>
-<元字符集="utf-8">
-<标题>唐诗一首</标题>
- </头>
-  <身体>
+<head>
+<charset="utf-8">
+<title>唐诗一首</title>
+ </head>
+ <body>
 
 <h1>静夜思</h1>
 <p>床前明月光</p>
 <p>疑是地上霜</p>
 <p>举头望明月</p>
 <p>低头思故乡</p>
-</身体>
+</body>
 </html>
